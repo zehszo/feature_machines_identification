@@ -2,4 +2,5 @@
 HACKATON TRACTIAN - Nova Feature: Classificação de Imagens de Máquinas com ChatGPT
 
 
-[Teste.pdf](https://github.com/user-attachments/files/16552501/Teste.pdf)
+
+[Documentação.pdf](https://github.com/user-attachments/files/16553137/Documentacao.pdf)
